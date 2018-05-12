@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37274
     wikipedia: http://en.wikipedia.org/wiki/Walter_Evans-Wentz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34853#The-Fairy-Faith-in-Celtic-Countries
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2011-01-05'
 gutenberg_type: Text
